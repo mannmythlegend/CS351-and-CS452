@@ -1,0 +1,6 @@
+Total Items in Knapsack: 2
+Capacity: 25
+Items in Knapsack
+	[1] orange Value - 50 Weight - 5
+	[2] kitchensink Value - 140 Weight - 20
+Max Value: 190

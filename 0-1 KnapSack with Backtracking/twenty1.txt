@@ -1,0 +1,11 @@
+Total Items in Knapsack: 7
+Capacity: 76
+Items in Knapsack
+	[1] 4 Value - 87 Weight - 13
+	[2] 5 Value - 50 Weight - 2
+	[3] 6 Value - 63 Weight - 8
+	[4] 9 Value - 41 Weight - 7
+	[5] 10 Value - 73 Weight - 17
+	[6] 12 Value - 68 Weight - 10
+	[7] 19 Value - 94 Weight - 17
+Max Value: 476
