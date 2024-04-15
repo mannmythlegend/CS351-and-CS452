@@ -1,0 +1,8 @@
+7 25
+orange 50 5
+banana 60 10
+kitchensink 140 20
+strawberry 100 14
+tangerine 10 5
+puppy 25 12
+grape 30 7
