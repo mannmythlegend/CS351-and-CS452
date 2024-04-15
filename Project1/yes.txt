@@ -1,0 +1,10 @@
+Bag Amount: 8 Total Value: 506 Total WT: 86
+Items in the bags: 
+5 50 2
+6 63 8
+12 68 10
+4 87 13
+9 41 7
+19 94 17
+7 91 20
+11 12 9
